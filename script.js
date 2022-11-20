@@ -47,7 +47,7 @@ async function init() {
   }
  j=1;
 }
-if(j==4){
+if(j==1){
   window.location.reload(true);
 }
 }
